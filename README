@@ -1,0 +1,9 @@
+This is my README file.
+
+My Git repository is https://github.com/Student-RobbieWadud/Project-5.git
+
+This project has 5 files: the makefile, queue.h, shared.h, user.c, and oss.c
+
+The make clean does not clean everything for some reason.
+
+Also, I get a segmentation fault when I try to run the code as correctly as I can (could not fix it).
